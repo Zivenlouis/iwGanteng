@@ -5,5 +5,5 @@ int main() {
   
   if (isGanteng) cout << "Iw Ganteng";
   else cout << "Iw gei";
-  
+  cout << "tes";
 }
